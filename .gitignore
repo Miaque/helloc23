@@ -32,6 +32,9 @@
 *.out
 *.app
 
+# clion
+.idea/
+
 cmake-build-debug
 .cache/
 compile_commands.json
